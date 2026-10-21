@@ -1,4 +1,5 @@
 {
     "appService.preDeployTask": "publish-release",
-    "appService.deploySubpath": "bin/Release/net6.0/publish"
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/ebc3899d-8df0-4ed3-9baa-46faddc3cce0/resourceGroups/rg-dio-azure-desafio/providers/Microsoft.Web/sites/api-dio-rh-01"
 }

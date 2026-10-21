@@ -5,6 +5,7 @@
     <Nullable>disable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>trilha_net_azure_desafio</RootNamespace>
+    <RollForward>Major</RollForward>
   </PropertyGroup>
 
   <ItemGroup>
